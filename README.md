@@ -28,6 +28,7 @@ The data used in this analysis can be downloaded with the following links. You m
 - Mapping Police Violence dataset: [https://mappingpoliceviolence.org](https://mappingpoliceviolence.org/)
 
 ## Structure
+The structure of this repository is as follows:
 ```
 .
 └── COVID-Arrest-Rates-and-Police-Violence-in-Broward-County-Florida
