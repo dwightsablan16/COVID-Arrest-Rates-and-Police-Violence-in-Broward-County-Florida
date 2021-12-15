@@ -19,7 +19,7 @@ The data used in this analysis can be downloaded with the following links. You m
 - CONVENIENT_us_confirmed_cases.csv: [https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv](https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv)
     - If you decide to use this dataset, be sure to read the following licensing terms and agreement: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-
+The data is organized in the following way to represent confirmed cases for a given US county.
 
 |        | Florida | ...   |
 | ------ |:-------:| -----:|
@@ -27,8 +27,23 @@ The data used in this analysis can be downloaded with the following links. You m
 | 1/23/20|   0     |       |
 
 
-
 - Mask Mandates: [https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
+
+The data is organized in the following way:
+
+|Column name|Description|
+|-----------|:---------:|
+|State_Tribe_Territory|U.S. state, tribe, and territory names|
+|County_Name|U.S. county names|
+|FIPS_State|U.S. state FIPS codes|
+|FIPS_County|U.S. county FIPS codes|
+|date|Daily date in dataset|
+|order_code||
+|Face_Masks_Required_in_Public|A requirement for individuals operating in a personal capacity to wear masks 1) anywhere outside their homes or 2) both in retail businesses and in restaurants/food establishments.|
+
+
+
+
 - Mask Compliance: [https://github.com/nytimes/covid-19-data/tree/master/mask-use](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 
 **Analysis Part 2**
