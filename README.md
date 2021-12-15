@@ -45,6 +45,7 @@ The data is organized in the following way:
 
 The data is organized in the following way:
 |Column name|Description|
+|-----------|:---------:|
 |COUNTYFP|Numeric state and county identifier|
 |NEVER|Percentage of respondants responding "never" wearing masks|
 |RARELY|Percentage of respondants responding "rarely" wearing masks|
