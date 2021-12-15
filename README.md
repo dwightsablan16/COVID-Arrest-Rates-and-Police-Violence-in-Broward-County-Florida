@@ -17,7 +17,7 @@ The data we use in this project are part of a two-part analysis.  The data can b
 **Analysis Part 1**
 
 - Confirmed Cases: [https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv](https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv)
-    - If you decide to use this dataset, be sure to read the following licensing terms and agreement @[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+    - If you decide to use this dataset, be sure to read the following licensing terms and agreement: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 - Mask Mandates: [https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
 - Mask Compliance: [https://github.com/nytimes/covid-19-data/tree/master/mask-use](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 
