@@ -41,10 +41,16 @@ The data is organized in the following way:
 |order_code||
 |Face_Masks_Required_in_Public|A requirement for individuals operating in a personal capacity to wear masks 1) anywhere outside their homes or 2) both in retail businesses and in restaurants/food establishments.|
 
-
-
-
 - Mask Compliance: [https://github.com/nytimes/covid-19-data/tree/master/mask-use](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
+
+The data is organized in the following way:
+|Column name|Description|
+|COUNTYFP|Numeric state and county identifier|
+|NEVER|Percentage of respondants responding "never" wearing masks|
+|RARELY|Percentage of respondants responding "rarely" wearing masks|
+|SOMETIMES|Percentage of respondants responding "sometimes" wearing masks|
+|FREQUENTLY|Percentage of respondants responding "frequently" wearing masks|
+|ALWAYS|Percentage of respondants responding "always" wearing masks|
 
 **Analysis Part 2**
 
