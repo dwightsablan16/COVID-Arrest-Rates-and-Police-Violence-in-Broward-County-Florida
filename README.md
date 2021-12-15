@@ -27,6 +27,23 @@ The data used in this analysis can be downloaded with the following links. You m
 - Broward Population Data: [https://www.census.gov/quickfacts/browardcountyflorida](https://www.census.gov/quickfacts/browardcountyflorida)
 - Mapping Police Violence dataset: [https://mappingpoliceviolence.org](https://mappingpoliceviolence.org/)
 
-
-
+## Structure
+```
+.
+└── COVID-Arrest-Rates-and-Police-Violence-in-Broward-County-Florida
+    ├── Analysis\ Part\ 1
+    │   ├── CONVENIENT_us_confirmed_cases.csv
+    │   └── Part\ 1\ Analysis\ Notebook.ipynb
+    ├── Analysis\ Part\ 2
+    │   ├── Arrest\ Rate\ results
+    │   │   └── Florida\ Crime\ Rates.xlsx
+    │   └── Police\ Violence\ Results
+    │       ├── PV_poission_input.csv
+    │       └── poisson_reg_code.R
+    ├── LICENSE
+    ├── README.md
+    └── Report\ and\ Presentation
+        ├── A7_Project_Report.pdf
+        └── Analysis\ Part\ 2\ Presentation.pdf
+```
 
