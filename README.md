@@ -12,7 +12,7 @@ The analysis for this study is broken down into two parts.  In part one of the a
 
 ## Data
 
-The data we use in this project are part of a two-part analysis.  The data can be downloaded using the following links.
+The data used in this analysis can be downloaded with the following links. You must download them locally if you are to reproduce the findings. 
 
 **Analysis Part 1**
 
